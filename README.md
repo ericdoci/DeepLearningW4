@@ -1,4 +1,4 @@
-#Introduction
+Introduction
 
 In this Kaggle Mini-Project we are looking at Natural Language processing with Disaster Tweets.
 
